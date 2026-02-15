@@ -50,7 +50,7 @@
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx" />
 </p>
 
 ---
