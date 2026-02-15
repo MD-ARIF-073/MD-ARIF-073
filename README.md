@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:mdarifishtiaq73@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/arif-ishtiaq-7887961a7/">LinkedIn</a> •
-  <a href="https://leetcode.com/u/IamIshtiaq/">leetcode</a> •
+  <a href="https://leetcode.com/u/IamIshtiaq/">LeetCode</a> •
   <a href="https://www.hackerrank.com/YOUR_USERNAME">HackerRank</a>
 </p>
 
@@ -12,18 +12,45 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Passionate **Backend Developer** focused on scalable and secure systems  
-- 🔭 Interested in **modern backend architectures** using **Spring Boot, NestJS, FastAPI**
-- 🧠 Strong foundation in **REST APIs, Microservices, Databases**
+- 🚀 Passionate **Backend Engineer** focused on scalable and secure systems  
+- 🔭 Experienced in **Spring Boot Microservices & Enterprise Integrations**
+- 🧠 Strong foundation in **REST APIs, System Design, and Database Optimization**
 - 💬 Ask me about **Java, Spring Boot, NestJS, GraphQL, PostgreSQL**
-- 🤝 Open to **collaboration and open-source contributions**
+- 🤝 Open to collaboration and open-source contributions  
 
 ---
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,springboot,nestjs,ts,graphql,docker,kubernetes,aws,postgres,mysql,redis,nginx" />
+### 🚀 Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,ts,graphql" />
+</p>
+
+![REST API](https://img.shields.io/badge/REST_API-02569B?logo=fastapi&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?logo=spring&logoColor=white)
+
+---
+
+### 🔄 Workflow & Security
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![Camunda](https://img.shields.io/badge/Camunda-EC1D24?logo=camunda&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?logo=keycloak&logoColor=white)
+![Mayan EDMS](https://img.shields.io/badge/Mayan_EDMS-0052CC?logo=readthedocs&logoColor=white)
+![Payment Gateway](https://img.shields.io/badge/Payment_Gateway-0A66C2?logo=paypal&logoColor=white)
+
+---
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
+
+---
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx" />
 </p>
 
 ---
@@ -39,9 +66,10 @@
 
 ## 🧩 What I’m Working On
 
-- ✔️ Building **enterprise-grade backend services**
-- ✔️ Improving **database design & performance**
-- ✔️ Learning **system design & cloud-native development**
+- ✔️ Building enterprise-grade backend services  
+- ✔️ Designing scalable microservices architectures  
+- ✔️ Improving database performance & system reliability  
+- ✔️ Advancing in system design & cloud-native development  
 
 ---
 
