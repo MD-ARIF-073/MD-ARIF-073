@@ -16,7 +16,7 @@
 - 🔭 Experienced in **Spring Boot Microservices & Enterprise Integrations**
 - 🧠 Strong foundation in **REST APIs, System Design, and Database Optimization**
 - 💬 Ask me about **Java, Spring Boot, NestJS, GraphQL, PostgreSQL**
-- 🤝 Open to collaboration and open-source contributions  
+- 🤝 Looking to collaborate on **modern backend projects using backend technologies and tools**
 
 ---
 
