@@ -58,18 +58,25 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/MD-ARIF-073">
-    <img
-      src="https://github.com/MD-ARIF-073.png"
-      width="120"
-      alt="Md Arif Ishtiaq"
-    />
-  </a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MD-ARIF-073&show_icons=true&theme=default&hide_border=true&rank_icon=github&cache_seconds=1800" 
+    height="165"
+    alt="GitHub Stats"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-ARIF-073&layout=compact&theme=default&hide_border=true&cache_seconds=1800" 
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <b>GitHub:</b>
-  <a href="https://github.com/MD-ARIF-073">github.com/MD-ARIF-073</a>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MD-ARIF-073&theme=default&hide_border=true&cache_seconds=1800" 
+    height="165"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
