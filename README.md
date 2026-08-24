@@ -55,27 +55,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MD-ARIF-073&show_icons=true&theme=default&hide_border=true&rank_icon=github" 
-    height="165"
-    alt="GitHub Stats"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-ARIF-073&layout=compact&theme=default&hide_border=true" 
-    height="165"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MD-ARIF-073&theme=default&hide_border=true" 
-    height="165"
-    alt="GitHub Streak"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MD-ARIF-073&theme=minimal&hide_border=true"
+    alt="GitHub Activity Graph"
   />
 </p>
 
