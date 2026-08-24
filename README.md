@@ -58,10 +58,18 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MD-ARIF-073&theme=minimal&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
+  <a href="https://github.com/MD-ARIF-073">
+    <img
+      src="https://github.com/MD-ARIF-073.png"
+      width="120"
+      alt="Md Arif Ishtiaq"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b>GitHub:</b>
+  <a href="https://github.com/MD-ARIF-073">github.com/MD-ARIF-073</a>
 </p>
 
 ---
